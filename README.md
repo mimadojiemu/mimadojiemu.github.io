@@ -1,15 +1,15 @@
 # Product Manager
 
 
-###Education
-International Health MSc
-Medicine & Surgery MBBS
+### Education
+International Health and Tropical Medicine, MSc
+Medicine & Surgery, MBBS
 
 
-###Projects
+### Projects
 
 
-###Work Experience
+### Work Experience
 
 
-###Research
+### Research

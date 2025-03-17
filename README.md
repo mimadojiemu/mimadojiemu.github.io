@@ -3,12 +3,16 @@
 
 ### Education
 International Health and Tropical Medicine, MSc
+
 Medicine & Surgery, MBBS
 
 ### Training
 Data Analysis
+
 Product Management
+
 Health Innovation and Entrepreneurship
+
 Project management essentials
 
 

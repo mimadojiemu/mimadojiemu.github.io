@@ -1,28 +1,35 @@
-# Research | Development | Product | Innovation
+# Global Health Researcher 
 
+### Education 
+MSC., International Health | University of Oxford, United Kingdom (2024)
 
-### Education
-International Health and Tropical Medicine, MSc
+MBBS, Medicine and Surgery | University of Benin, Nigeria (2017)
 
-Medicine & Surgery, MBBS
-
-### Training
+### Training 
 Evidence Synthesis
 
-Data Analysis
+Quantitative and Qualitative data collection and Analysis
 
-Product Management
+Economic evaluation 
 
-Health Innovation 
+Supply and demand anaylsis
+
+Introduction to economic modelling
+
+Technical writing(including proposals, ethics review applications, and publication manuscripts)
 
 Project management essentials
+
+
+### Technical skills 
+Rayyan, Covidence, R, Nvivo and MS office including Excel. 
 
 
 ### Projects
 
 
 
-### Research
+### Research Outputs
 Imadojiemu, M. (2024). Emerging approaches for cervical cancer screening in Sub-Saharan Africa: A scoping review of the barriers to and facilitators of implementation (Master’s thesis, University of Oxford).
 
 Imadojiemu, M., Zhao, Y., & English, M. (2024). Health workforce unemployment and underemployment in low- and middle- income countries (LMICs): A systematic review protocol. Open Science Framework. https://osf.io/8gsv9

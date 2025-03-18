@@ -1,4 +1,4 @@
-# Product Manager
+# Research | Development | Product | Innovation
 
 
 ### Education
@@ -7,11 +7,13 @@ International Health and Tropical Medicine, MSc
 Medicine & Surgery, MBBS
 
 ### Training
+Evidence Synthesis
+
 Data Analysis
 
 Product Management
 
-Health Innovation and Entrepreneurship
+Health Innovation 
 
 Project management essentials
 
